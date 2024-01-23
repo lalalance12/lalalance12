@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hello+There!+👋;+I'm+Xerxes+Lance+Laurenz+Lompon!;" />
 </h1>
 
-<h3 align="center">A passionate software developer/software engineer and aspiring full stack developer from Philippines</h3>
+<h3 align="center">A passionate software developer/software engineer from Philippines</h3>
 
 <br/>
 
