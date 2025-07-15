@@ -4,17 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=6000&lines=Hello+There!+👋;+I'm+Xerxes+Lance+Laurenz+Lompon!;" />
 </h1>
 
-<h3 align="center">A passionate software developer/software engineer from Philippines</h3>
+<h3 align="center">A passionate software engineer / software developer from Philippines</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on a **Web Application**
- 
- 🌱 I’m currently learning **JavaScript, React, NodeJS, MongoDB**
+ 🔭 I’m currently working on **Guideon, an AI-powered personalized learning assistant**
 
-💬 Ask me about **Flask, Python, C++, MySQL... or anything [here](https://github.com/lalalance12/lalalance12/issues)**
+ 🌱 I’m currently learning ** Laravel, PostgreSQL (pgvector), and Supabase**
+
+💬 Ask me about **React, TypeScript, Next.js, Node.js, PostgreSQL, or anything [here](https://github.com/lalalance12/lalalance12/issues)**
+
 
 📫 How to reach me
 
@@ -35,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,figma,c,cpp,qt,mysql,postgres" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,flask,postman,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,figma,c,cpp,mysql,postgres,mongodb,supabase,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,laravel,php,django,python,postman" />
 </div>
 
 <br/>
